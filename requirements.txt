@@ -1,4 +1,4 @@
-deepsnap == 0.1.2
+deepsnap
 matplotlib == 3.7.0
 networkx == 2.4
 numpy == 1.13.3
